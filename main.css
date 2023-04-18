@@ -1,0 +1,73 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;;
+
+
+
+}
+
+h4{
+
+    font-family: 'Nunito-black', sans-serif;
+    font-size: 28px;
+    color: #22193F;
+
+}
+
+a{
+
+    font-weight: bold;
+    font-size: 16px;
+    color:  #E21982;
+    text-decoration: none;
+    margin-left: 12.3rem;
+
+}
+
+.btn{
+
+    font-weight: bold;
+    font-size: 16px;
+    font-family: 'Nunito', sans-serif;
+    color: #ffffffff;
+
+}
+
+.input-group-text{
+
+    font-size: 16px;
+    border: solid 1px  #C4C4C4;
+    border-radius: 5rem;
+
+}
+
+body{
+
+    background-image: url(img/ondas.svg);
+    background-color:#22193F;
+    background-size: cover;
+    background-position: right center;
+
+}
+
+img{
+
+    border-radius: 0.3rem;
+
+}
+
+.container{
+
+    margin-top: 5%;
+    border-radius: 1rem;
+    margin-left: 18%;
+    
+}
+
+.bi{
+
+    color: #6A2A83;
+
+}
